@@ -1,0 +1,24 @@
+{
+  "name": "happy-slugger",
+  "version": "0.0.1",
+  "description": "npm module for turning a string into a slug to be used as part of a url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manonthemat/happy-slugger.git"
+  },
+  "author": "Matthias Sieber <matthiasksieber@gmail.com> (https://github.com/manonthemat)",
+  "license": [
+    {
+      "type": "BSD-2-Clause",
+      "url": "https://github.com/manonthemat/happy-slugger/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/manonthemat/happy-slugger/issues"
+  },
+  "homepage": "https://github.com/manonthemat/happy-slugger#readme"
+}
